@@ -1,6 +1,6 @@
 # RoDeO (Robot Detecting Objects) 
 
-__Simulated object events.__ Objects are in conventional positions, perspective slightly from above (adjustable parameter), robot approaches objects from different sides. 35 ms samples. 5 instances of each class, 500 samples for each instance in total (4 approaching directions, 3 perpectives). Zoom-in zoom-out motion.
+__Simulated object events.__ Objects are in conventional positions, perspective slightly from above (adjustable parameter), robot approaches objects from different sides. 35 ms samples. 5 instances of each class, 4 approaching directions, 3 perpectives for each object. Zoom-in zoom-out motion. Currently 868 data samples across the 4 classes.
 - apple
 - paper coffee cup
 - mug

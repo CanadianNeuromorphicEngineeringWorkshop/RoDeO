@@ -16,3 +16,4 @@ datasets
 h5py
 mypy
 pytest
+gensim
